@@ -1,0 +1,12 @@
+/*
+Theme Name: Nick's Theme
+Theme URI: https://www.STARTERTHEME.com
+Description: Starter Theme
+Version: 1.0
+Author: Nick Hanks
+*/
+
+@import url("css/bootstrap.min.css");
+@import url("css/font-awesome.min.css");
+@import url("css/variables.css");
+@import url("css/main.css");
